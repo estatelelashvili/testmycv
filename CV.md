@@ -1,5 +1,5 @@
 # CV
-
+![This is an image](https://github.com/estatelelashvili/testmycv/blob/gh-pages/estatelelashviliwhite.jpg)
 ## Estate Lelashvili
 ## Contacts
 ### Phone 
@@ -19,4 +19,4 @@ I am a psychologist though recently I found a new passion in coding. I enjoy lea
 ## English level: C1 
 I am fluent in english. I can communicate, study and work in english-speaking environment. I have studied english at school, then I continued studing english at the univesity. I have studied Coursera Deep Learning online course in english language. Also a have attended several summer schools in informatics there communication language was english. 
 
-![This is an image](https://github.com/estatelelashvili/testmycv/blob/gh-pages/estatelelashviliwhite.jpg)
+
