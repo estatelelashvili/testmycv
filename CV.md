@@ -10,7 +10,7 @@ estatelelashvili@gmail.com
 estatelelashvili
 ### LinkedIn Profile
 https://www.linkedin.com/in/est87/
-### Skype id
+### Skype
 Estate Lelashvili
 
 ## About me/Summary
