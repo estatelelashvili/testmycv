@@ -27,6 +27,7 @@ I watch carefully what is trending in modern Web technologies, therefore current
 
 ## Code examples
 I have built a linear regression algorithm from scratch in plain python with no modules or libraries, I wrote my own custom sum(), sqrt() and zipp() functions. Also I wrote matrix manipulation algorithms for multiple linear regression (See my GitHub page: https://github.com/estatelelashvili)
+Also I have built e-commerce online shop in React on my own  https://github.com/estatelelashvili.
 
 ## Education
 • Bachelor’s degree in psychology at the Tbilisi Ilia State University.
