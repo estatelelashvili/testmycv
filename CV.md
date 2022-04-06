@@ -4,9 +4,10 @@
 ## Contacts
 ### Phone: +995577191113
 ### Email: estatelelashvili@gmail.com
+### Skype: Estate Lelashvili
 ### [Github](https://github.com/estatelelashvili)
 ### [LinkedIn](https://www.linkedin.com/in/est87/)
-### Skype: Estate Lelashvili
+
 
 ## About me/Summary
 I am a psychologist though recently I found a new passion in coding. I enjoy learning more about computer science and building apps. My current goal is to become a web developer. I watch carefully what is trending in modern Web technologies, therefore currently I am studying at rolling scopes trainig programm. I am confident that I will be a hardworking student at rolling scopes trainig programm. Since I have a bachelor’s degree in psychology so I am equipped with strong communication skills, that allows me to cooperate efficiently with others and be a useful member of a team. 
