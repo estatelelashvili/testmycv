@@ -5,7 +5,7 @@
 ### Phone: +995577191113
 ### Email: estatelelashvili@gmail.com
 ### Github username: estatelelashvili
-### LinkedIn Profile: https://www.linkedin.com/in/est87/
+### [LinkedIn](https://www.linkedin.com/in/est87/)
 ### Skype: Estate Lelashvili
 
 ## About me/Summary
