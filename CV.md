@@ -30,8 +30,8 @@ I have built a linear regression algorithm from scratch in plain python with no 
 Also I have built e-commerce online shop in React on my own  https://github.com/estatelelashvili.
 
 ## Courses
- *Coursera Deep Learning Specialization Certificate [Credential URL:](https://www.coursera.org/account/accomplishments/specialization/certificate/FJEWLA8QUZQE)
- *RS Schools Course «JS/FE Course EN 2022. Stage 1» (in progress)
+ * Coursera Deep Learning Specialization Certificate: [Credential URL](https://www.coursera.org/account/accomplishments/specialization/certificate/FJEWLA8QUZQE)
+ * RS Schools Course «JS/FE Course EN 2022. Stage 1» (in progress)
 
 ## Education
 • Bachelor’s degree in psychology at the Tbilisi Ilia State University.
