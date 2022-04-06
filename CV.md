@@ -1,5 +1,5 @@
 # CV
-![This is an image](https://drive.google.com/file/d/1XRsx529rrASmtQjnfMOKt3JFJQTG5sTp/view?usp=sharing)
+![This is an image](tatoRound.jpg)
 ## Estate Lelashvili
 ## Contacts
 ### Phone 
