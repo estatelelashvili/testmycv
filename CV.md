@@ -1,5 +1,5 @@
 # CV
-![This is an image](/roundTato250.jpg)
+![This is an image](/estatelelashvili250.jpg)
 ## Estate Lelashvili
 ## Contacts
 ### Phone 
