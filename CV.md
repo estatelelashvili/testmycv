@@ -1,5 +1,5 @@
 # CV
-![This is an image](/blob/gh-pages/estatelelashviliwhite.jpg)
+![This is an image](/estatelelashviliwhite.jpg)
 ## Estate Lelashvili
 ## Contacts
 ### Phone 
