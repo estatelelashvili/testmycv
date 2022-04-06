@@ -1,5 +1,5 @@
 # CV
-![This is an image](/estatelelashviliwhite.jpg)
+![This is an image](https://interstate87blog.files.wordpress.com/2022/03/cropped-dsc_02055.jpg?resize=219%2C219)
 ## Estate Lelashvili
 ## Contacts
 ### Phone 
