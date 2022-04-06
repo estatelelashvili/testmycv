@@ -30,13 +30,12 @@ I have built a linear regression algorithm from scratch in plain python with no 
 Also I have built e-commerce online shop in React on my own  https://github.com/estatelelashvili.
 
 ## Courses
+ * Summer school in “LOGIC, LANGUAGE, AI” Certificate: [Credential URL](https://geoanbani.com/TbiLLAI/files/students/ESTATE%20LELASHVILI.pdf)
  * Coursera Deep Learning Specialization Certificate: [Credential URL](https://www.coursera.org/account/accomplishments/specialization/certificate/FJEWLA8QUZQE)
  * RS Schools Course «JS/FE Course EN 2022. Stage 1» (in progress)
 
 ## Education
-• Bachelor’s degree in psychology at the Tbilisi Ilia State University.
-• Coursera Deep Learning online specialization course.
-• Summer School “LOGIC, LANGUAGE, AI”.
+* Bachelor’s degree in psychology at the Tbilisi Ilia State University.
 
 ## English level: C1 
 I am fluent in english. I can communicate, study and work in english-speaking environment. I have studied english at school, then I continued studing english at the univesity. I have studied Coursera Deep Learning online course in english language. Also a have attended several summer schools in informatics there communication language was english. 
